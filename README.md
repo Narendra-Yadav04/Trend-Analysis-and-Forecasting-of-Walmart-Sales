@@ -7,6 +7,6 @@ Developed predictive models using time series forecasting techniques to estimate
 Identified key factors impacting sales, including pricing, promotions, and seasonal variations, and provided actionable recommendations.
 Technical Skills:
 
-**Tools**: Python (pandas, NumPy, matplotlib, seaborn), Power BI/Tableau, Jupyter Notebook.
-Techniques: Exploratory Data Analysis (EDA), Time Series Analysis, Forecasting, Data Cleaning and Preprocessing.
+**Tools**: Python (pandas, NumPy, matplotlib, seaborn), Power BI/Tableau, Google colab.
+**Techniques**: Exploratory Data Analysis (EDA), Time Series Analysis, Forecasting, Data Cleaning and Preprocessing.
 Concepts: Sales Trend Analysis, Revenue Optimization, Seasonality Analysis.
